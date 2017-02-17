@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Notes app</title>
+  </head>
+  <body>
+    <form id="text" action="#notes" method="post">
+      <input id="textarea" type="textarea" name="textarea"></input>
+      <input type="submit" value="Create"></input>
+    </form>
+    <a href="#notes" id="app"></a>
+    <!-- <div id="app">Please add a note</div> -->
+    <div id="singlenote"></div>
+    <script src="lib/note-model.js"></script>
+    <script src="lib/note-list-model.js"></script>
+    <script src="lib/note-list-view.js"></script>
+    <script src="lib/note-controller.js"></script>
+    <script src="lib/index.js"></script>
+  </body>
+</html>
