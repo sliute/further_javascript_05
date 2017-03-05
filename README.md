@@ -4,7 +4,7 @@ A [Makers Academy course challenge](https://github.com/makersacademy).
 
 This is version 5/5.
 
-Also take a look at my contributions to versions [1](https://github.com/sliute/further_javascript) [2](https://github.com/MicaW/further_javascript), [3](https://github.com/edytawrobel/ToDoListJS) and [4](https://github.com/tamarlehmann/FurtherJS-Notes) in the respective MA student repos.
+Also take a look at my contributions to versions [1](https://github.com/sliute/further_javascript), [2](https://github.com/MicaW/further_javascript), [3](https://github.com/edytawrobel/ToDoListJS) and [4](https://github.com/tamarlehmann/FurtherJS-Notes) in the respective MA student repos.
 
 ## How to Use
 ```
